@@ -1,0 +1,6 @@
+shixun:
+  admin:
+    name: admin
+    password: 123456
+server:
+    port: 8081
